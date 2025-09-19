@@ -1,0 +1,22 @@
+S.No,Product,Name,email,Phone,Message,Status,Created
+1,"Nordic Chair","Manish Jangid",productpage@enquiry.com,2587411236,"this is Nordic Chair Enquiry
+message",Read,"2024-10-23 11:36:35"
+2,,"Manish Kumar Jangid",contactus@test.com,1236547890,"this is contact us
+page enquiry",Read,"2024-10-23 11:35:44"
+3,"Nordic Chair","Manish Jangid",manishtest@test.com,1234567890,"test
+Nordic Chair Enquiry",Read,"2024-10-23 11:15:46"
+4,,test,testing@test.com,4232342342,"test
+message",Unread,"2024-10-14 11:01:21"
+5,,"Manish Jangid",test@test.com,2323423423,"test
+message",Read,"2024-10-14 05:28:15"
+6,,"Full Name",test@test.coms,3423423423,test,Unread,"2024-10-10 10:23:14"
+7,,3910,info@yourdomain.com,1312312312,Message,Unread,"2024-10-10 10:21:02"
+8,,"Manish Kumar Jangid",manishtest@test.com,3216549879,"test
+message
+again",Unread,"2024-10-10 10:14:49"
+9,,"Manish Jangid",test@test.com,3216549874,Message,Read,"2024-10-10 10:11:40"
+10,,"First Name Last Name",manish@test.com,,"test message",Read,"2024-10-10 10:02:09"
+11,,"First Name Last Name",test@test.com,,Message,Unread,"2024-10-10 09:57:02"
+12,,"First name Last name",test@test.com,,Message,Unread,"2024-10-10 09:55:51"
+13,,"Manish Jangid",manish@test.com,1234567890,"test mesage",Read,"2024-10-09 17:25:29"
+,

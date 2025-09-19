@@ -1,0 +1,5 @@
+S.No,"Employee Name",Latitude,Longitude,Date,"Check IN","Check OUT",Status,Note,Created
+1,"Nripjeet Singh",26.8791738,75.7470854,2025-01-22,"22-01-2025 03:55 pm",,Present,,"2025-01-22 15:55:45"
+2,"Manish Jangid",26.943475,75.763571,2025-01-22,"22-01-2025 11:29 am","22-01-2025 11:33 am",Present,,"2025-01-22 11:29:18"
+3,"Manish Jangid",26.9167,75.8121,2025-01-21,"21-01-2025 02:21 pm","21-01-2025 02:30 pm",Present,test,"2025-01-21 14:21:40"
+,
